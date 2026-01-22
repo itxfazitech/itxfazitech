@@ -23,6 +23,71 @@ I build end-to-end software that helps businesses run better — from ERP system
 
 ---
 
+## Project Types I Build & Work With
+Below are many common, high-impact project types across web, mobile, and desktop that I design and deliver. Pick the ones you want showcased and I’ll add examples, tech stacks, and links.
+
+Web applications
+- E-commerce platforms (catalog, cart, checkout, payments, subscriptions)
+- CMS & blogging platforms (content management, editors, media)
+- Customer portals & dashboards (account management, billing, usage)
+- CRM systems & lead management
+- Booking & reservation systems (hotels, events, appointments)
+- Online marketplaces & classifieds
+- Landing pages & marketing sites (SEO optimized)
+- SaaS apps & subscription management
+- Payment integrations & gateways
+- Analytics dashboards & BI reporting
+- Advertising & marketing automation tools
+- Social networks, communities & forums
+- Streaming & media delivery platforms
+- Real estate portals and property management
+
+Mobile applications
+- On-demand apps (ride-hailing, delivery)
+- Food ordering & delivery apps
+- Fintech & mobile banking apps (payments, wallets)
+- Health & telemedicine apps (remote consults, patient records)
+- Fitness & wellness apps (tracking, plans)
+- Educational apps & e-learning platforms (LMS, quizzes)
+- Messaging & chat apps (real-time, push notifications)
+- Travel & trip-planning apps (maps, itineraries)
+- AR-assisted apps (shopping, visualization)
+- Offline-first apps & PWAs (sync when online)
+
+Desktop & Cross-platform
+- POS systems & inventory management (retail & restaurants)
+- Desktop productivity apps (notes, editors, file managers)
+- Electron-based desktop clients (chat, collaboration, admin tools)
+- Desktop utilities & automation tools
+- Cross-platform apps with React Native / .NET MAUI / Electron
+- Native desktop integrations with local hardware (printers, scanners)
+
+Enterprise & Business Systems
+- ERP (finance, inventory, procurement, HR)
+- HR & payroll management systems
+- Fleet & vehicle management systems
+- Hospital Management Systems (HMS) & EMR
+- Supply chain & logistics platforms
+- Compliance & audit tooling
+- BI pipelines, ETL, and data integration services
+- Microservices & API ecosystems
+
+Developer & Integrations
+- RESTful APIs and GraphQL services
+- Webhooks, background jobs & event-driven systems
+- CI/CD pipelines, DevOps automation & infrastructure as code
+- Integrations with third-party platforms (Stripe, Twilio, Google APIs)
+- Chatbots and conversational UI integrations
+
+Emerging & Utility
+- IoT dashboards and device management portals
+- Image processing, OCR, and document management
+- Voice assistants & smart-home controllers
+- AR/VR demos and visualizers
+- Accessibility-focused web & mobile apps
+
+---
+
 ## Top Skills
 Languages & Platforms
 - JavaScript · TypeScript · PHP · C# (ASP.NET / Blazor / MAUI)
@@ -41,20 +106,20 @@ Other
 
 ---
 
-## Selected Projects (short list — send repo URLs & short descriptions and I'll update with links, screenshots, and metrics)
+## Selected Projects
 - Khushi Motors ERP — Custom ERP for Khushi Motors (finance, inventory, sales, reporting)  
 - Vehicle Industry Website & SEO Management — Websites + SEO optimizations to boost visibility and leads  
 - HMS (Hospital Management System) — Patient management, billing, appointments, and records
 
-(If you provide repo links or live URLs I will add badges, screenshots, and tech stacks for each.)
+(Provide links or metrics and I’ll add badges, screenshots, and tech details.)
 
 ---
 
 ## How I Work
-- Clean, maintainable code with tests where it matters
+- Clean, maintainable code with pragmatic tests
 - Iterative delivery: small releases, fast feedback loops
 - Focus on business outcomes — automation that saves time and reduces errors
-- Collaborative: I document and hand over code so teams can operate independently
+- Collaborative: clear docs and handovers so teams can operate independently
 
 ---
 
