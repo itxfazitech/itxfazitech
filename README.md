@@ -103,7 +103,7 @@ Emerging & Utility
 
 ## Contact
 - Email: itxfazitech@gmail.com
-- WhatsApp: +92 305 4258257
+- WhatsApp: [+92 305 4258257](https://wa.me/923054258257)
 - GitHub: https://github.com/itxfazitech
   
 ---
